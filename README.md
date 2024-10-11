@@ -4,4 +4,4 @@ This repository collects homework for the course The Art of Scientific Research.
 
 ## Contents
 1. Abstract, keywords, and highlights: [bib](/Artem-theArt.bib), [tex](/Artem-Step-1.tex), [pdf](/Artem-Step-1.pdf)
-
+1. Industrial project description: [tex](/Artem-Step-2.tex), [pdf](/Artem-Step-2.pdf)
